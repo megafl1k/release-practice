@@ -1,5 +1,5 @@
 console.log('App v1.0.1 - bug fixed')
 
-function greet(name) {
-    console.log(`Hello, ${name}!`);
+function greet(user) {
+	 console.log(`Hello, ${user.name}!`);
 }
